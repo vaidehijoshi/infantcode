@@ -1,4 +1,4 @@
-infantcode
+FRIENDS-themed Rock, Paper, Scissors Game
 ==========
 
 Baby steps in coding--mostly riffing off of exercises completed in online coding courses to try to make them my own!
