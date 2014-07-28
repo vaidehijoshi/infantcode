@@ -4,7 +4,8 @@ Infant Code
 NOTE: This is an experiment as I take my first baby steps in coding. Code mostly riffs off of exercises completed in online coding courses in an attempte to make them my own!
 
 ==========
-
+Infant Code
+==========
 "Friends" Rock, Paper, Scissors Game
 
 If you're anything like me, you're a huge fan of the T.V. show, "Friends".
