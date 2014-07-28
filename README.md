@@ -1,9 +1,8 @@
 Infant Code
 ==========
 
-NOTE: This is an experiment as I take my first baby steps in coding. Code mostly riffs off of exercises completed in online coding courses in an attempte to make them my own!
+NOTE: This is an experiment as I take my first baby steps in coding. Code mostly riffs off of exercises completed in online coding courses in an attempt to make them my own!
 
-==========
 Game: "Friends" Rock, Paper, Scissors
 ==========
 
