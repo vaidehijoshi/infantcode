@@ -13,6 +13,9 @@ switch(answer) {
   case 'lumpy':
     console.log("Mashed potatoes with lumps = the best.");
     break;
+  case 'trifled':
+    console.log("A traditional English trifle for Thanksgiving? Well...okay, why not?");
+    break;
   default:
     console.log("Whaaaaaat? I don't think you can make potatoes like that.");
 }
