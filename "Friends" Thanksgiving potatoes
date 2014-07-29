@@ -1,0 +1,18 @@
+var answer = prompt("How do you like your Thanksgiving potatoes?");
+
+switch(answer) {
+  case 'mashed':
+    console.log("Good idea, let's stick with the tried and tested version. I love mashed potatoes!");
+    break;
+  case 'candied':
+    console.log("Candied yams are delicious! Nice choice.");
+    break;
+  case 'fried':
+    console.log("Nice! It wouldn't be Thanksgiving without tater tots!");
+    break;
+  case 'lumpy':
+    console.log("Mashed potatoes with lumps = the best.");
+    break;
+  default:
+    console.log("Whaaaaaat? I don't think you can make potatoes like that.");
+}
