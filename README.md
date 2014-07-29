@@ -13,7 +13,7 @@ This game is a based on an episode from "Friends" (Season 10, Episode 8), where 
 Watch this YouTube clip to see what kind of game you're about to play!: https://www.youtube.com/watch?v=o_xH__mg03w
 
 
-Game: "Friends" Thanksgiving Potatoes
+Switch Statement: "Friends" Thanksgiving Potatoes
 ==========
 
 You could always count on the Thanksgiving episode from "Friends" to be the best one of the season.
